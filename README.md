@@ -19,5 +19,5 @@ The following **bonus** features are implemented:
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
 
-## Video Walkthrough
-<img src='https://imgur.com/gallery/XtQnREK' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+Video Walkthrough
+<img src='https://imgur.com/gallery/XtQnREK'>
