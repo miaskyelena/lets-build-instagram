@@ -1,8 +1,9 @@
 # Let's Build Instagram! 
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+This is an Instagram clone with a custom Parse backend that allows a user to post photos and view 
+a global photos feed.
 
-<img src="https://imgur.com/gallery/IvJ8zeN"></img>
+ ![ezgif-1-89cf67cc33](https://user-images.githubusercontent.com/93685530/222925091-8a0fa2c6-8aba-42ca-b88b-836e19143fd3.gif)
 
 ## User Stories
 
