@@ -1,6 +1,8 @@
-# Parstagram - Part I 
+# Let's Build Instagram! 
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+
+<img src="https://imgur.com/gallery/IvJ8zeN"></img>
 
 ## User Stories
 
@@ -14,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past posts infinitely. (2pts)
+- [X] User can pull to refresh. (1pt)
+- [X] User can load past posts infinitely. (2pts)
 
 # Part II
 
@@ -33,11 +35,7 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can add a profile picture. (2pts)
-- [ ] Profile pictures are shown for posts and comments. (2pts)
+- [X] User can add a profile picture. (2pts)
+- [X] Profile pictures are shown for posts and comments. (2pts)
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-https://imgur.com/gallery/IvJ8zeN
-Thank you!
